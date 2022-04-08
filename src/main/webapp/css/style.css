@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body{
+	background-image: url("../images/image_pierre_feuille_ciseau.jpg");
+	background-repeat : no-repeat;
+	
+}
+h1{
+	color: red;
+	text-align: center;
+}
+button{
+	padding: 15px;
+	marging: 100px;
+	background-color: lightgreen;
+}
